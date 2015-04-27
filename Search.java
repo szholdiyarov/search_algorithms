@@ -3,7 +3,7 @@
 /*** required for searching algorithms        ***/
 /***                                          ***/
 /***                                          ***/
-/*** Author: Zholdiyarov Sanzhar 110562618    ***/
+/*** Author: Zholdiyarov Sanzhar              ***/
 /*** Date:   25.10.2014                       ***/
 /***                                          ***/
 /*** Note: Based on skeleton code provided by ***/
